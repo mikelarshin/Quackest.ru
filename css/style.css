@@ -1,0 +1,13 @@
+body {
+    background: #ff5b19;
+}
+
+.text {
+    text-align: center;
+    font-size: 150px;
+    color: white;
+    margin-top: 15%;
+    font-family: Lobster;
+    text-shadow: crimson 5px 5px;
+    -webkit-text-stroke: 4px black;
+}

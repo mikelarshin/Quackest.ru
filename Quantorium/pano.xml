@@ -1,0 +1,1082 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1">
+  <panorama id="node1">
+    <input levelingroll="0" width="4917" height="4917" leveltileurl="tiles/коридор 2 1 этаж/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelbias="0.400" overlap="1">
+      <level predecode="0" width="4917" height="4917" preload="0"/>
+      <level predecode="0" width="2458" height="2458" preload="0"/>
+      <level predecode="0" width="1229" height="1229" preload="0"/>
+      <level predecode="0" width="614" height="614" preload="0"/>
+      <level predecode="1" width="307" height="307" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="75.13" fov="85.1" tilt="0.88"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata longitude="" comment="" tags="успешные панорамы|1 " copyright="" description="" title="" datetime="2019:03:04 18:28:41" info="" author="" latitude="" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" enabled="1" textcolor="0x000000" wordwrap="1" border="1" width="180" backgroundalpha="1" height="20" backgroundcolor="0xffffff" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot id="коридор" description="" target="141.288/0.941976/120" title="" url="{node2}">
+        <vertex pan="62.1" tilt="11.62"/>
+        <vertex pan="48.58" tilt="16.5"/>
+        <vertex pan="48.34" tilt="-18.34"/>
+        <vertex pan="61.75" tilt="-12.92"/>
+        <vertex pan="61.75" tilt="-12.92"/>
+      </polyhotspot>
+      <polyhotspot id="лестница" description="" target="-55.9433/-1.00717/120" title="" url="{node18}">
+        <vertex pan="163.1" tilt="6.55"/>
+        <vertex pan="152.46" tilt="6.03"/>
+        <vertex pan="152.59" tilt="-10.8"/>
+        <vertex pan="163.28" tilt="-10.2"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" blendtime="0.1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" softedge="0"/>
+    <control dblclickfullscreen="0" sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" hideabout="0" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingroll="0" width="4915" height="4915" leveltileurl="tiles/коридор 3 1 этаж/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelbias="0.400" overlap="1">
+      <level predecode="0" width="4915" height="4915" preload="0"/>
+      <level predecode="0" width="2457" height="2457" preload="0"/>
+      <level predecode="0" width="1228" height="1228" preload="0"/>
+      <level predecode="0" width="614" height="614" preload="0"/>
+      <level predecode="1" width="307" height="307" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="89.89" fov="85.1" tilt="0.98"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata longitude="" comment="" tags="успешные панорамы|1 " copyright="" description="" title="" datetime="2019:03:04 18:43:54" info="" author="" latitude="" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" enabled="1" textcolor="0x000000" wordwrap="1" border="1" width="180" backgroundalpha="1" height="20" backgroundcolor="0xffffff" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot id="коридор" description="" target="-162.921/-2.4383/120" title="" url="{node1}">
+        <vertex pan="-50.35" tilt="31.56"/>
+        <vertex pan="-51.18" tilt="-35.15"/>
+        <vertex pan="-87.69" tilt="-30.68"/>
+        <vertex pan="-84.63" tilt="26.45"/>
+      </polyhotspot>
+      <polyhotspot id="коридор" description="" target="-64.5042/-0.756768/85.1" title="" url="{node3}">
+        <vertex pan="107.62" tilt="18.12"/>
+        <vertex pan="107.77" tilt="-20.07"/>
+        <vertex pan="74.09" tilt="-19.52"/>
+        <vertex pan="72.94" tilt="17.56"/>
+        <vertex pan="74.12" tilt="17.44"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" blendtime="0.1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" softedge="0"/>
+    <control dblclickfullscreen="0" sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" hideabout="0" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingroll="0" width="4915" height="4915" leveltileurl="tiles/коридор 4 1 этаж/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelbias="0.400" overlap="1">
+      <level predecode="0" width="4915" height="4915" preload="0"/>
+      <level predecode="0" width="2457" height="2457" preload="0"/>
+      <level predecode="0" width="1228" height="1228" preload="0"/>
+      <level predecode="0" width="614" height="614" preload="0"/>
+      <level predecode="1" width="307" height="307" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="97.12" fov="85.1" tilt="-0.43"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata longitude="" comment="" tags="успешные панорамы|1 " copyright="" description="" title="" datetime="2019:03:04 18:47:26" info="" author="" latitude="" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" enabled="1" textcolor="0x000000" wordwrap="1" border="1" width="180" backgroundalpha="1" height="20" backgroundcolor="0xffffff" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot id="коридор" description="" target="-84.0796/-0.111074/120" title="" url="{node2}">
+        <vertex pan="116.81" tilt="12.63"/>
+        <vertex pan="117.17" tilt="-14.27"/>
+        <vertex pan="90.05" tilt="-16.26"/>
+        <vertex pan="89.89" tilt="14.23"/>
+      </polyhotspot>
+      <polyhotspot id="лестница" description="" target="-45.5919/3.72722/120" title="" url="{node4}">
+        <vertex pan="150.42" tilt="28.85"/>
+        <vertex pan="130.89" tilt="16.87"/>
+        <vertex pan="131.15" tilt="-28.69"/>
+        <vertex pan="149.97" tilt="-43.77"/>
+      </polyhotspot>
+      <polyhotspot id="коридор" description="" target="87.8579/8.43937/120" title="" url="{node19}">
+        <vertex pan="-56.67" tilt="8.85"/>
+        <vertex pan="-56.67" tilt="6.62"/>
+        <vertex pan="-58.14" tilt="5.91"/>
+        <vertex pan="-58.4" tilt="-13.2"/>
+        <vertex pan="-77.64" tilt="-13.67"/>
+        <vertex pan="-77.45" tilt="10.79"/>
+      </polyhotspot>
+      <polyhotspot id="аудитория" description="" target="-101.157/-8.30355/120" title="" url="{node27}">
+        <vertex pan="-0.36" tilt="28.75"/>
+        <vertex pan="-34.59" tilt="19.44"/>
+        <vertex pan="-35.82" tilt="-31.03"/>
+        <vertex pan="-0.52" tilt="-43.35"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" blendtime="0.1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" softedge="0"/>
+    <control dblclickfullscreen="0" sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" hideabout="0" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelingroll="-0.158726" width="3000" height="3000" leveltileurl="tiles/коридор  1 этаж/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="-0.743108" levelbiashidpi="0.400" levelbias="0.400" overlap="1">
+      <level predecode="0" width="3000" height="3000" preload="0"/>
+      <level predecode="0" width="1500" height="1500" preload="0"/>
+      <level predecode="0" width="750" height="750" preload="0"/>
+      <level predecode="1" width="375" height="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata longitude="" comment="" tags="Группы 7 и 9" copyright="" description="" title="" datetime="" info="" author="" latitude="" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" enabled="1" textcolor="0x000000" wordwrap="1" border="1" width="180" backgroundalpha="1" height="20" backgroundcolor="0xffffff" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot id="коридор" description="" target="102.404/-2.26784/85.1" title="" url="{node3}">
+        <vertex pan="-92.94" tilt="7.6"/>
+        <vertex pan="-93.71" tilt="-7.49"/>
+        <vertex pan="-106.46" tilt="-8.95"/>
+        <vertex pan="-106.51" tilt="7.58"/>
+      </polyhotspot>
+      <polyhotspot id="hi-tec мастерская" description="" target="-105.346/-4.35304/120" title="" url="{node28}">
+        <vertex pan="-138.65" tilt="29.92"/>
+        <vertex pan="163.91" tilt="40.33"/>
+        <vertex pan="163.46" tilt="-47.8"/>
+        <vertex pan="-137.61" tilt="-37.58"/>
+        <vertex pan="-138.08" tilt="-19.82"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" blendtime="0.1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" softedge="0"/>
+    <control dblclickfullscreen="0" sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" hideabout="0" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingroll="0" width="5100" height="5100" leveltileurl="tiles/лестница (2)/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelbias="0.400" overlap="1">
+      <level predecode="0" width="5100" height="5100" preload="0"/>
+      <level predecode="0" width="2550" height="2550" preload="0"/>
+      <level predecode="0" width="1275" height="1275" preload="0"/>
+      <level predecode="0" width="637" height="637" preload="0"/>
+      <level predecode="1" width="318" height="318" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="132.23" fov="85.1" tilt="7.57"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata longitude="" comment="" tags="успешные панорамы3" copyright="" description="" title="" datetime="2019:03:04 17:40:01" info="" author="" latitude="" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" enabled="1" textcolor="0x000000" wordwrap="1" border="1" width="180" backgroundalpha="1" height="20" backgroundcolor="0xffffff" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot id="1 этаж" description="" target="16.2332/-1.32155/120" title="" url="{node3}">
+        <vertex pan="139.08" tilt="-12.29"/>
+        <vertex pan="131.4" tilt="-12.3"/>
+        <vertex pan="129.28" tilt="-26.78"/>
+        <vertex pan="139.05" tilt="-27.36"/>
+      </polyhotspot>
+      <polyhotspot id="2 этаж" description="" target="-54.2072/-0.247773/120" title="" url="{node5}">
+        <vertex pan="137.62" tilt="18.95"/>
+        <vertex pan="136.08" tilt="3.08"/>
+        <vertex pan="120.64" tilt="2.9"/>
+        <vertex pan="120.18" tilt="19.79"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" blendtime="0.1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" softedge="0"/>
+    <control dblclickfullscreen="0" sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" hideabout="0" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingroll="0" width="5138" height="5138" leveltileurl="tiles/коридор 1 2 этаж/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelbias="0.400" overlap="1">
+      <level predecode="0" width="5138" height="5138" preload="0"/>
+      <level predecode="0" width="2569" height="2569" preload="0"/>
+      <level predecode="0" width="1284" height="1284" preload="0"/>
+      <level predecode="0" width="642" height="642" preload="0"/>
+      <level predecode="1" width="321" height="321" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="31.92" fov="85.1" tilt="-1.49"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata longitude="" comment="" tags="успешные панорамы1" copyright="" description="" title="" datetime="2019:03:04 16:26:58" info="" author="" latitude="" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" enabled="1" textcolor="0x000000" wordwrap="1" border="1" width="180" backgroundalpha="1" height="20" backgroundcolor="0xffffff" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot id="лестница" description="" target="-42.4442/-4.71541/120" title="" url="{node4}">
+        <vertex pan="65.48" tilt="19.59"/>
+        <vertex pan="55.12" tilt="13.44"/>
+        <vertex pan="54.61" tilt="-21.01"/>
+        <vertex pan="64.99" tilt="-28.99"/>
+      </polyhotspot>
+      <polyhotspot id="био-квантум" description="" target="47.8788/-1.51726/120" title="" url="{node11}">
+        <vertex pan="-122.15" tilt="30.16"/>
+        <vertex pan="-178.21" tilt="26.91"/>
+        <vertex pan="-178.45" tilt="-43.39"/>
+        <vertex pan="-122.71" tilt="-46.81"/>
+      </polyhotspot>
+      <polyhotspot id="коридор" description="" target="-117.202/-6.82444/120" title="" url="{node6}">
+        <vertex pan="43.19" tilt="7.21"/>
+        <vertex pan="43.06" tilt="-11.81"/>
+        <vertex pan="22.88" tilt="-14.75"/>
+        <vertex pan="23.94" tilt="8.53"/>
+      </polyhotspot>
+      <polyhotspot id="Poly01" description="" target="-166.059/-3.94993/120" title="" url="{node33}">
+        <vertex pan="-0.3" tilt="23.16"/>
+        <vertex pan="-45.66" tilt="34.76"/>
+        <vertex pan="-44.74" tilt="-49.79"/>
+        <vertex pan="1.01" tilt="-34.13"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" blendtime="0.1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" softedge="0"/>
+    <control dblclickfullscreen="0" sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" hideabout="0" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelingroll="0" width="4932" height="4932" leveltileurl="tiles/коридор био/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelbias="0.400" overlap="1">
+      <level predecode="0" width="4932" height="4932" preload="0"/>
+      <level predecode="0" width="2466" height="2466" preload="0"/>
+      <level predecode="0" width="1233" height="1233" preload="0"/>
+      <level predecode="0" width="616" height="616" preload="0"/>
+      <level predecode="1" width="308" height="308" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="46.13" fov="85.1" tilt="-1.45"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata longitude="" comment="" tags="uготовые панорамы" copyright="" description="" title="" datetime="2019:03:04 17:33:21" info="" author="" latitude="" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" enabled="1" textcolor="0x000000" wordwrap="1" border="1" width="180" backgroundalpha="1" height="20" backgroundcolor="0xffffff" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot id="коридор" description="" target="31.7274/-1.86412/120" title="" url="{node5}">
+        <vertex pan="-129.6" tilt="6.25"/>
+        <vertex pan="-140.05" tilt="5.61"/>
+        <vertex pan="-140.04" tilt="-11.14"/>
+        <vertex pan="-130.42" tilt="-11.37"/>
+      </polyhotspot>
+      <polyhotspot id="био-квантум" description="" target="-57.1386/-7.26689/120" title="" url="{node10}">
+        <vertex pan="90.89" tilt="18.72"/>
+        <vertex pan="76.68" tilt="13.72"/>
+        <vertex pan="76.32" tilt="-30.6"/>
+        <vertex pan="90.83" tilt="-39.68"/>
+      </polyhotspot>
+      <polyhotspot id="био-квантум" description="" target="145.775/-0.992608/120" title="" url="{node9}">
+        <vertex pan="16.08" tilt="13.41"/>
+        <vertex pan="0.91" tilt="18.29"/>
+        <vertex pan="0.57" tilt="-39.81"/>
+        <vertex pan="16.18" tilt="-30.58"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" blendtime="0.1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" softedge="0"/>
+    <control dblclickfullscreen="0" sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" hideabout="0" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingroll="0" width="4930" height="4930" leveltileurl="tiles/био 2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelbias="0.400" overlap="1">
+      <level predecode="0" width="4930" height="4930" preload="0"/>
+      <level predecode="0" width="2465" height="2465" preload="0"/>
+      <level predecode="0" width="1232" height="1232" preload="0"/>
+      <level predecode="0" width="616" height="616" preload="0"/>
+      <level predecode="1" width="308" height="308" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-70.41" fov="85.1" tilt="-2.13"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata longitude="" comment="" tags="успешные панорамы квантов" copyright="" description="" title="" datetime="2019:03:04 16:19:08" info="" author="" latitude="" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" enabled="1" textcolor="0x000000" wordwrap="1" border="1" width="180" backgroundalpha="1" height="20" backgroundcolor="0xffffff" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot id="био" description="" target="-88.2568/-13.3931/120" title="" url="{node11}">
+        <vertex pan="106.16" tilt="31.71"/>
+        <vertex pan="68.44" tilt="22.67"/>
+        <vertex pan="67.33" tilt="-49.09"/>
+        <vertex pan="105.88" tilt="-59.18"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" blendtime="0.1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" softedge="0"/>
+    <control dblclickfullscreen="0" sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" hideabout="0" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingroll="0" width="3000" height="3000" leveltileurl="tiles/био 1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelbias="0.400" overlap="1">
+      <level predecode="0" width="3000" height="3000" preload="0"/>
+      <level predecode="0" width="1500" height="1500" preload="0"/>
+      <level predecode="0" width="750" height="750" preload="0"/>
+      <level predecode="1" width="375" height="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-139.27" fov="85.1" tilt="3.59"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata longitude="" comment="" tags="успешные панорамы квантов" copyright="" description="" title="" datetime="2019:03:04 16:13:17" info="" author="" latitude="" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" enabled="1" textcolor="0x000000" wordwrap="1" border="1" width="180" backgroundalpha="1" height="20" backgroundcolor="0xffffff" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot id="био" description="" target="121.65/-2.83292/120" title="" url="{node11}">
+        <vertex pan="-61.45" tilt="8.54"/>
+        <vertex pan="-73.25" tilt="7.86"/>
+        <vertex pan="-73.35" tilt="-19.84"/>
+        <vertex pan="-61.4" tilt="-22.26"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" blendtime="0.1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" softedge="0"/>
+    <control dblclickfullscreen="0" sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" hideabout="0" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingroll="0" width="5125" height="5125" leveltileurl="tiles/коридор 2 2 этаж/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelbias="0.400" overlap="1">
+      <level predecode="0" width="5125" height="5125" preload="0"/>
+      <level predecode="0" width="2562" height="2562" preload="0"/>
+      <level predecode="0" width="1281" height="1281" preload="0"/>
+      <level predecode="0" width="640" height="640" preload="0"/>
+      <level predecode="1" width="320" height="320" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-81.61" fov="85.1" tilt="-4.68"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata longitude="" comment="" tags="успешные панорамы1" copyright="" description="" title="" datetime="2019:03:04 16:34:35" info="" author="" latitude="" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" enabled="1" textcolor="0x000000" wordwrap="1" border="1" width="180" backgroundalpha="1" height="20" backgroundcolor="0xffffff" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot id="коридор" description="" target="-143.16/-8.30341/120" title="" url="{node5}">
+        <vertex pan="86.72" tilt="13.39"/>
+        <vertex pan="86.45" tilt="-16.65"/>
+        <vertex pan="59.43" tilt="-16.82"/>
+        <vertex pan="58.72" tilt="11.41"/>
+      </polyhotspot>
+      <polyhotspot id="преподовательская " description="" target="81.2636/-8.56599/120" title="" url="{node16}">
+        <vertex pan="126.06" tilt="20.03"/>
+        <vertex pan="106.57" tilt="15.35"/>
+        <vertex pan="107.24" tilt="-33"/>
+        <vertex pan="126.94" tilt="-43.41"/>
+      </polyhotspot>
+      <polyhotspot id="коридор" description="" target="160.921/-3.88652/120" title="" url="{node7}">
+        <vertex pan="-65.32" tilt="31.59"/>
+        <vertex pan="-66.29" tilt="-40.46"/>
+        <vertex pan="-117.53" tilt="-39.13"/>
+        <vertex pan="-116.05" tilt="31.55"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" blendtime="0.1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" softedge="0"/>
+    <control dblclickfullscreen="0" sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" hideabout="0" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingroll="0.329172" width="5128" height="5128" leveltileurl="tiles/коридор 3 2 этаж/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="-1.07971" levelbiashidpi="0.400" levelbias="0.400" overlap="1">
+      <level predecode="0" width="5128" height="5128" preload="0"/>
+      <level predecode="0" width="2564" height="2564" preload="0"/>
+      <level predecode="0" width="1282" height="1282" preload="0"/>
+      <level predecode="0" width="641" height="641" preload="0"/>
+      <level predecode="1" width="320" height="320" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-140.59" fov="85.1" tilt="1.41"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata longitude="" comment="" tags="успешные панорамы1" copyright="" description="" title="" datetime="2019:03:04 16:42:20" info="" author="" latitude="" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" enabled="1" textcolor="0x000000" wordwrap="1" border="1" width="180" backgroundalpha="1" height="20" backgroundcolor="0xffffff" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot id="коридор" description="" target="90.5474/-7.23955/120" title="" url="{node6}">
+        <vertex pan="0.33" tilt="19.11"/>
+        <vertex pan="0.07" tilt="-23.76"/>
+        <vertex pan="-48.59" tilt="-28.98"/>
+        <vertex pan="-48.29" tilt="19.69"/>
+        <vertex pan="-47.58" tilt="21.83"/>
+      </polyhotspot>
+      <polyhotspot id="лекторий" description="" target="167.895/-7.69896/85.1" title="" url="{node14}">
+        <vertex pan="-98.69" tilt="6.12"/>
+        <vertex pan="-107.02" tilt="6.51"/>
+        <vertex pan="-107.68" tilt="-9.84"/>
+        <vertex pan="-103.4" tilt="-9.95"/>
+        <vertex pan="-102.87" tilt="-13.37"/>
+        <vertex pan="-98.38" tilt="-11.59"/>
+      </polyhotspot>
+      <polyhotspot id="лекторий" description="" target="20.456/-3.29722/85.1" title="" url="{node13}">
+        <vertex pan="-162.55" tilt="6.08"/>
+        <vertex pan="-170.28" tilt="5.62"/>
+        <vertex pan="-170.94" tilt="-9.28"/>
+        <vertex pan="-168.1" tilt="-11.99"/>
+        <vertex pan="-162.52" tilt="-12.68"/>
+      </polyhotspot>
+      <polyhotspot id="коридор" description="" target="-88.6277/-0.752907/120" title="" url="{node8}">
+        <vertex pan="133.04" tilt="8.09"/>
+        <vertex pan="133.03" tilt="-9.88"/>
+        <vertex pan="113.23" tilt="-10.72"/>
+        <vertex pan="112.6" tilt="8.87"/>
+      </polyhotspot>
+      <polyhotspot id="IMG_1483 Panorama" description="" target="170.03/-3.41257/120" title="" url="{node25}">
+        <vertex pan="108.34" tilt="9.97"/>
+        <vertex pan="99.77" tilt="12.15"/>
+        <vertex pan="100.51" tilt="-19.32"/>
+        <vertex pan="108.32" tilt="-13.69"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" blendtime="0.1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" softedge="0"/>
+    <control dblclickfullscreen="0" sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" hideabout="0" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelingroll="0" width="5069" height="5069" leveltileurl="tiles/преподовательская/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelbias="0.400" overlap="1">
+      <level predecode="0" width="5069" height="5069" preload="0"/>
+      <level predecode="0" width="2534" height="2534" preload="0"/>
+      <level predecode="0" width="1267" height="1267" preload="0"/>
+      <level predecode="0" width="633" height="633" preload="0"/>
+      <level predecode="1" width="316" height="316" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-100.83" fov="85.1" tilt="-1.04"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata longitude="" comment="" tags="успешная панорама4" copyright="" description="" title="" datetime="" info="" author="" latitude="" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" enabled="1" textcolor="0x000000" wordwrap="1" border="1" width="180" backgroundalpha="1" height="20" backgroundcolor="0xffffff" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot id="коридор" description="" target="-19.5508/-7.89608/120" title="" url="{node6}">
+        <vertex pan="-97.05" tilt="6.19"/>
+        <vertex pan="-108.58" tilt="5.95"/>
+        <vertex pan="-108.08" tilt="-18.82"/>
+        <vertex pan="-97.73" tilt="-19.03"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" blendtime="0.1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" softedge="0"/>
+    <control dblclickfullscreen="0" sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" hideabout="0" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelingroll="0" width="3000" height="3000" leveltileurl="tiles/лекторий (1)/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelbias="0.400" overlap="1">
+      <level predecode="0" width="3000" height="3000" preload="0"/>
+      <level predecode="0" width="1500" height="1500" preload="0"/>
+      <level predecode="0" width="750" height="750" preload="0"/>
+      <level predecode="1" width="375" height="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="66.44" fov="85.1" tilt="-1.98"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata longitude="" comment="" tags="успешные панорамы 2" copyright="" description="" title="" datetime="" info="" author="" latitude="" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" enabled="1" textcolor="0x000000" wordwrap="1" border="1" width="180" backgroundalpha="1" height="20" backgroundcolor="0xffffff" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot id="коридор" description="" target="55.8089/-2.72196/120" title="" url="{node7}">
+        <vertex pan="13.48" tilt="12.02"/>
+        <vertex pan="-1.92" tilt="12.49"/>
+        <vertex pan="-2.25" tilt="-20.13"/>
+        <vertex pan="12.4" tilt="-19.65"/>
+      </polyhotspot>
+      <polyhotspot id="лекторий" description="" target="-60.7074/-6.6023/120" title="" url="{node15}">
+        <vertex pan="90.9" tilt="14.05"/>
+        <vertex pan="87.97" tilt="-20.37"/>
+        <vertex pan="53.42" tilt="-21.09"/>
+        <vertex pan="55.51" tilt="18.29"/>
+        <vertex pan="66.88" tilt="16.19"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" blendtime="0.1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" softedge="0"/>
+    <control dblclickfullscreen="0" sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" hideabout="0" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelingroll="0" width="3000" height="3000" leveltileurl="tiles/лекторий (2)/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelbias="0.400" overlap="1">
+      <level predecode="0" width="3000" height="3000" preload="0"/>
+      <level predecode="0" width="1500" height="1500" preload="0"/>
+      <level predecode="0" width="750" height="750" preload="0"/>
+      <level predecode="1" width="375" height="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-150.62" fov="85.1" tilt="-3.27"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata longitude="" comment="" tags="успешные панорамы 2" copyright="" description="" title="" datetime="2018:11:18 11:57:42" info="" author="" latitude="" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" enabled="1" textcolor="0x000000" wordwrap="1" border="1" width="180" backgroundalpha="1" height="20" backgroundcolor="0xffffff" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot id="лекторий" description="" target="-126.013/2.51145/120" title="" url="{node14}">
+        <vertex pan="143.66" tilt="17.36"/>
+        <vertex pan="146.2" tilt="-23.32"/>
+        <vertex pan="92.73" tilt="-30.26"/>
+        <vertex pan="96.24" tilt="21.56"/>
+      </polyhotspot>
+      <polyhotspot id="лекторий" description="" target="-78.4897/-5.98834/120" title="" url="{node13}">
+        <vertex pan="-40.9" tilt="13.19"/>
+        <vertex pan="-41.4" tilt="-20.02"/>
+        <vertex pan="-72.6" tilt="-22.58"/>
+        <vertex pan="-67.74" tilt="12.79"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" blendtime="0.1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" softedge="0"/>
+    <control dblclickfullscreen="0" sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" hideabout="0" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelingroll="0" width="3000" height="3000" leveltileurl="tiles/лекторий (3)/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelbias="0.400" overlap="1">
+      <level predecode="0" width="3000" height="3000" preload="0"/>
+      <level predecode="0" width="1500" height="1500" preload="0"/>
+      <level predecode="0" width="750" height="750" preload="0"/>
+      <level predecode="1" width="375" height="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="120.22" fov="85.1" tilt="-3.52"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata longitude="" comment="" tags="успешные панорамы 2|XXnnnn" copyright="" description="" title="" datetime="2018:11:18 11:48:42" info="" author="" latitude="" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" enabled="1" textcolor="0x000000" wordwrap="1" border="1" width="180" backgroundalpha="1" height="20" backgroundcolor="0xffffff" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot id="лекторий" description="" target="109.79/-4.9257/120" title="" url="{node15}">
+        <vertex pan="104.51" tilt="5.64"/>
+        <vertex pan="105.44" tilt="-14.95"/>
+        <vertex pan="75.23" tilt="-20.59"/>
+        <vertex pan="77.8" tilt="7.77"/>
+      </polyhotspot>
+      <polyhotspot id="коридор" description="" target="45.4571/-5.01471/120" title="" url="{node7}">
+        <vertex pan="177.02" tilt="14.69"/>
+        <vertex pan="157.43" tilt="13.36"/>
+        <vertex pan="158.22" tilt="-20.42"/>
+        <vertex pan="162.58" tilt="-23.41"/>
+        <vertex pan="177.23" tilt="-23.37"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" blendtime="0.1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" softedge="0"/>
+    <control dblclickfullscreen="0" sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" hideabout="0" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingroll="0" width="5134" height="5134" leveltileurl="tiles/коридор 4 2 этаж/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelbias="0.400" overlap="1">
+      <level predecode="0" width="5134" height="5134" preload="0"/>
+      <level predecode="0" width="2567" height="2567" preload="0"/>
+      <level predecode="0" width="1283" height="1283" preload="0"/>
+      <level predecode="0" width="641" height="641" preload="0"/>
+      <level predecode="1" width="320" height="320" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-94.5" fov="85.1" tilt="0.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata longitude="" comment="" tags="успешные панорамы1" copyright="" description="" title="" datetime="2019:03:04 17:03:28" info="" author="" latitude="" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" enabled="1" textcolor="0x000000" wordwrap="1" border="1" width="180" backgroundalpha="1" height="20" backgroundcolor="0xffffff" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot id="коридор" description="" target="-39.6615/-3.37048/120" title="" url="{node7}">
+        <vertex pan="106.53" tilt="9.77"/>
+        <vertex pan="106.87" tilt="-15.99"/>
+        <vertex pan="77.53" tilt="-17.97"/>
+        <vertex pan="77.37" tilt="9.25"/>
+      </polyhotspot>
+      <polyhotspot id="лестница" description="" target="-53.5913/6.35869/120" title="" url="{node18}">
+        <vertex pan="44.96" tilt="25.98"/>
+        <vertex pan="0.36" tilt="31.94"/>
+        <vertex pan="0.56" tilt="-44.16"/>
+        <vertex pan="44.62" tilt="-37.39"/>
+      </polyhotspot>
+      <polyhotspot id="IMG_0551_Panoram_slozhny_obyektiv" description="" target="-19.0877/-2.12787/70" title="" url="{node21}">
+        <vertex pan="-76.73" tilt="10.38"/>
+        <vertex pan="-74.83" tilt="-15.84"/>
+        <vertex pan="-102.97" tilt="-14.31"/>
+        <vertex pan="-102.27" tilt="13.28"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" blendtime="0.1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" softedge="0"/>
+    <control dblclickfullscreen="0" sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" hideabout="0" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelingroll="0" width="3000" height="3000" leveltileurl="tiles/IT-квант/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelbias="0.400" overlap="1">
+      <level predecode="0" width="3000" height="3000" preload="0"/>
+      <level predecode="0" width="1500" height="1500" preload="0"/>
+      <level predecode="0" width="750" height="750" preload="0"/>
+      <level predecode="1" width="375" height="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="105.51" fov="85.1" tilt="2.41"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata longitude="" comment="" tags="успешные панорамы квантов" copyright="" description="" title="" datetime="2019:03:04 15:59:45" info="" author="" latitude="" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" enabled="1" textcolor="0x000000" wordwrap="1" border="1" width="180" backgroundalpha="1" height="20" backgroundcolor="0xffffff" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot id="IMG_0551_Panoram_slozhny_obyektiv" description="" target="-114.838/-12.7306/70" title="" url="{node21}">
+        <vertex pan="-3" tilt="31.86"/>
+        <vertex pan="-51.78" tilt="23.9"/>
+        <vertex pan="-51.68" tilt="-37.83"/>
+        <vertex pan="-2.13" tilt="-47.47"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" blendtime="0.1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" softedge="0"/>
+    <control dblclickfullscreen="0" sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" hideabout="0" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node18">
+    <input levelingroll="0" width="5105" height="5105" leveltileurl="tiles/лестница (1)/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelbias="0.400" overlap="1">
+      <level predecode="0" width="5105" height="5105" preload="0"/>
+      <level predecode="0" width="2552" height="2552" preload="0"/>
+      <level predecode="0" width="1276" height="1276" preload="0"/>
+      <level predecode="0" width="638" height="638" preload="0"/>
+      <level predecode="1" width="319" height="319" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="125.53" fov="85.1" tilt="5.2"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata longitude="" comment="" tags="успешные панорамы3" copyright="" description="" title="" datetime="2019:03:04 17:44:32" info="" author="" latitude="" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" enabled="1" textcolor="0x000000" wordwrap="1" border="1" width="180" backgroundalpha="1" height="20" backgroundcolor="0xffffff" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot id="2 этаж" description="" target="164.391/-2.70483/85.1" title="" url="{node8}">
+        <vertex pan="130.02" tilt="19.06"/>
+        <vertex pan="128.75" tilt="3.85"/>
+        <vertex pan="111.18" tilt="3.51"/>
+        <vertex pan="110.9" tilt="19.89"/>
+      </polyhotspot>
+      <polyhotspot id="1 этаж" description="" target="-1.37346/-1.49711/73.4602" title="" url="{node1}">
+        <vertex pan="138.54" tilt="-13.83"/>
+        <vertex pan="139.16" tilt="-28.53"/>
+        <vertex pan="121.61" tilt="-30.72"/>
+        <vertex pan="122.56" tilt="-15.2"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" blendtime="0.1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" softedge="0"/>
+    <control dblclickfullscreen="0" sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" hideabout="0" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node21">
+    <input levelingroll="0" width="3000" height="3000" leveltileurl="tiles/робо коридор после цветокорекции/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelbias="0.400" overlap="1">
+      <level predecode="0" width="3000" height="3000" preload="0"/>
+      <level predecode="0" width="1500" height="1500" preload="0"/>
+      <level predecode="0" width="750" height="750" preload="0"/>
+      <level predecode="1" width="375" height="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata longitude="" comment="" tags="Desktop" copyright="" description="" title="" datetime="2019:04:24 16:56:36" info="" author="" latitude="" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" enabled="1" textcolor="0x000000" wordwrap="1" border="1" width="180" backgroundalpha="1" height="20" backgroundcolor="0xffffff" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot id="коридор 4 2 этаж" description="" target="97.3128/-5.42179/120" title="" url="{node8}">
+        <vertex pan="-176.76" tilt="12.98"/>
+        <vertex pan="-173.96" tilt="-26.7"/>
+        <vertex pan="150.65" tilt="-22.31"/>
+        <vertex pan="153.22" tilt="13.61"/>
+      </polyhotspot>
+      <polyhotspot id=" IT-квант" description="" target="-110.757/1.45946/85.1" title="" url="{node12}">
+        <vertex pan="147.39" tilt="11.36"/>
+        <vertex pan="146.64" tilt="-21.7"/>
+        <vertex pan="136.32" tilt="-28.99"/>
+        <vertex pan="136.47" tilt="16.37"/>
+      </polyhotspot>
+      <polyhotspot id="IMG_9708 Panorama робо" description="" target="-118.497/-1.97289/70" title="" url="{node24}">
+        <vertex pan="-40.1" tilt="14.09"/>
+        <vertex pan="-58.67" tilt="23.5"/>
+        <vertex pan="-58.26" tilt="-41.89"/>
+        <vertex pan="-39.61" tilt="-27.36"/>
+      </polyhotspot>
+      <polyhotspot id="Poly01" description="" target="" title="" url="">
+        <vertex pan="33.48" tilt="8.03"/>
+        <vertex pan="33.49" tilt="8.03"/>
+        <vertex pan="33.48" tilt="8.03"/>
+      </polyhotspot>
+      <polyhotspot id="Poly02 negf hjal" description="" target="33.5256/8.03115/5" title="" url="{node32}">
+        <vertex pan="33.47" tilt="8.06"/>
+        <vertex pan="33.53" tilt="8.04"/>
+        <vertex pan="33.49" tilt="8.03"/>
+        <vertex pan="33.5" tilt="7.97"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" blendtime="0.1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" softedge="0"/>
+    <control dblclickfullscreen="0" sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" hideabout="0" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node24">
+    <input levelingroll="0" width="3000" height="3000" leveltileurl="tiles/IMG_9708 Panorama робо/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelbias="0.400" overlap="1">
+      <level predecode="0" width="3000" height="3000" preload="0"/>
+      <level predecode="0" width="1500" height="1500" preload="0"/>
+      <level predecode="0" width="750" height="750" preload="0"/>
+      <level predecode="1" width="375" height="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata longitude="" comment="" tags="панорамы" copyright="" description="" title="" datetime="2019:04:27 17:19:45" info="" author="" latitude="" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" enabled="1" textcolor="0x000000" wordwrap="1" border="1" width="180" backgroundalpha="1" height="20" backgroundcolor="0xffffff" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot id="IMG_0551 Panorama" description="" target="71.9306/-10.3757/70" title="" url="{node21}">
+        <vertex pan="0.78" tilt="30.04"/>
+        <vertex pan="-54.48" tilt="23.42"/>
+        <vertex pan="-55.02" tilt="-40.58"/>
+        <vertex pan="0.35" tilt="-48.74"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" blendtime="0.1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" softedge="0"/>
+    <control dblclickfullscreen="0" sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" hideabout="0" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node25">
+    <input levelingroll="0" width="3000" height="3000" leveltileurl="tiles/IMG_1483 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelbias="0.400" overlap="1">
+      <level predecode="0" width="3000" height="3000" preload="0"/>
+      <level predecode="0" width="1500" height="1500" preload="0"/>
+      <level predecode="0" width="750" height="750" preload="0"/>
+      <level predecode="1" width="375" height="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-164.64" fov="120" tilt="-5.01"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata longitude="42.02107854779467" comment="" tags="гео фото" copyright="" description="" title="" datetime="2019:04:29 15:15:20" info="" author="" latitude="45.11397274951043" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" enabled="1" textcolor="0x000000" wordwrap="1" border="1" width="180" backgroundalpha="1" height="20" backgroundcolor="0xffffff" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot id="коридор 4 2 этаж" description="" target="-111.396/-0.234026/120" title="" url="{node7}">
+        <vertex pan="24.55" tilt="19.37"/>
+        <vertex pan="-18.07" tilt="29.39"/>
+        <vertex pan="-18.33" tilt="-47.87"/>
+        <vertex pan="24.32" tilt="-34.64"/>
+      </polyhotspot>
+      <polyhotspot id="Максим" description="" target="_blank" title="" url="https://vk.com/id383817632">
+        <vertex pan="-52.03" tilt="-43.92"/>
+        <vertex pan="-52.21" tilt="-44.22"/>
+        <vertex pan="-54.46" tilt="-43.65"/>
+        <vertex pan="-54.29" tilt="-43.42"/>
+      </polyhotspot>
+      <polyhotspot id="Poly01" description="" target="_blank" title="" url="https://vk.com/mlarshin">
+        <vertex pan="-45.02" tilt="-45.58"/>
+        <vertex pan="-45.12" tilt="-45.92"/>
+        <vertex pan="-47.94" tilt="-45.5"/>
+        <vertex pan="-47.79" tilt="-45.18"/>
+        <vertex pan="-46.87" tilt="-45.31"/>
+        <vertex pan="-45.94" tilt="-45.4"/>
+      </polyhotspot>
+      <polyhotspot id="Poly02" description="" target="_blank" title="" url="https://stavropol.regmarkets.ru/apelsiny--59664/">
+        <vertex pan="-40.1" tilt="-46.19"/>
+        <vertex pan="-40.21" tilt="-46.57"/>
+        <vertex pan="-41.69" tilt="-46.4"/>
+        <vertex pan="-41.45" tilt="-46.08"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" blendtime="0.1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" softedge="0"/>
+    <control dblclickfullscreen="0" sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" hideabout="0" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node27">
+    <input levelingroll="0" width="3000" height="3000" leveltileurl="tiles/hi tec Принтеры/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelbias="0.400" overlap="1">
+      <level predecode="0" width="3000" height="3000" preload="0"/>
+      <level predecode="0" width="1500" height="1500" preload="0"/>
+      <level predecode="0" width="750" height="750" preload="0"/>
+      <level predecode="1" width="375" height="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata longitude="" comment="" tags="панорамы" copyright="" description="" title="" datetime="2019:05:06 18:20:19" info="" author="" latitude="" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" enabled="1" textcolor="0x000000" wordwrap="1" border="1" width="180" backgroundalpha="1" height="20" backgroundcolor="0xffffff" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot id="коридор" description="" target="-166.524/-5.30857/120" title="" url="{node3}">
+        <vertex pan="113.34" tilt="23.79"/>
+        <vertex pan="63.36" tilt="29.74"/>
+        <vertex pan="61.92" tilt="-45.55"/>
+        <vertex pan="111.24" tilt="-36.03"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" blendtime="0.1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" softedge="0"/>
+    <control dblclickfullscreen="0" sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" hideabout="0" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node28">
+    <input levelingroll="0" width="4477" height="4477" leveltileurl="tiles/IMG_9582_Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelbias="0.400" overlap="1">
+      <level predecode="0" width="4477" height="4477" preload="0"/>
+      <level predecode="0" width="2238" height="2238" preload="0"/>
+      <level predecode="0" width="1119" height="1119" preload="0"/>
+      <level predecode="0" width="559" height="559" preload="0"/>
+      <level predecode="1" width="279" height="279" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata longitude="" comment="" tags="Pano2VR5" copyright="" description="" title="" datetime="2019:04:24 17:26:24" info="" author="" latitude="" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" enabled="1" textcolor="0x000000" wordwrap="1" border="1" width="180" backgroundalpha="1" height="20" backgroundcolor="0xffffff" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot id="кор" description="" target="-8.61418/-8.76684/120" title="" url="{node19}">
+        <vertex pan="63.83" tilt="11.93"/>
+        <vertex pan="47.48" tilt="10.79"/>
+        <vertex pan="47.46" tilt="-14.68"/>
+        <vertex pan="58.99" tilt="-14.5"/>
+        <vertex pan="63.61" tilt="-9.32"/>
+      </polyhotspot>
+      <polyhotspot id="Poly01" description="" target="_blank" title="" url="https://www.troteclaser.com/fileadmin/content/images/Laser_Machines/Speedy_Series/Broshjura-Linei-ka-lazerov-Speedy.pdf">
+        <vertex pan="154.84" tilt="-13.5"/>
+        <vertex pan="154.7" tilt="-32.22"/>
+        <vertex pan="147.01" tilt="-46.47"/>
+        <vertex pan="111.78" tilt="-34.28"/>
+        <vertex pan="113.73" tilt="-14.81"/>
+        <vertex pan="127.16" tilt="-9.38"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" blendtime="0.1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" softedge="0"/>
+    <control dblclickfullscreen="0" sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" hideabout="0" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node29">
+    <input levelingroll="0" width="3000" height="3000" leveltileurl="tiles/робо коридор пасха/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelbias="0.400" overlap="1">
+      <level predecode="0" width="3000" height="3000" preload="0"/>
+      <level predecode="0" width="1500" height="1500" preload="0"/>
+      <level predecode="0" width="750" height="750" preload="0"/>
+      <level predecode="1" width="375" height="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata longitude="" comment="" tags="Pano2VR5" copyright="" description="" title="" datetime="2019:05:11 19:54:50" info="" author="" latitude="" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" enabled="1" textcolor="0x000000" wordwrap="1" border="1" width="180" backgroundalpha="1" height="20" backgroundcolor="0xffffff" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot id="Poly01" description="" target="75.13/0.88/85.1" title="" url="{node1}">
+        <vertex pan="170.37" tilt="0.37"/>
+        <vertex pan="170.37" tilt="0.27"/>
+        <vertex pan="170.25" tilt="0.24"/>
+        <vertex pan="170.25" tilt="0.37"/>
+      </polyhotspot>
+      <polyhotspot id="Poly02" description="" target="142.41/-8.5377/120" title="" url="{node32}">
+        <vertex pan="147" tilt="11.25"/>
+        <vertex pan="136.72" tilt="15.81"/>
+        <vertex pan="136.48" tilt="-28.75"/>
+        <vertex pan="148.18" tilt="-19.53"/>
+      </polyhotspot>
+      <polyhotspot id="Poly03" description="" target="-51.9892/-7.24274/120" title="" url="{node31}">
+        <vertex pan="-40.06" tilt="14.1"/>
+        <vertex pan="-58.55" tilt="23.2"/>
+        <vertex pan="-57.97" tilt="-41.31"/>
+        <vertex pan="-39.94" tilt="-27.02"/>
+      </polyhotspot>
+      <polyhotspot id="Poly04" description="" target="-172.134/2.73035/26.7735" title="" url="{node30}">
+        <vertex pan="-170.91" tilt="7.23"/>
+        <vertex pan="-163.89" tilt="9.3"/>
+        <vertex pan="-173.55" tilt="6.59"/>
+        <vertex pan="-173.94" tilt="-5.28"/>
+        <vertex pan="-170.7" tilt="-6.36"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" blendtime="0.1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" softedge="0"/>
+    <control dblclickfullscreen="0" sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" hideabout="0" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node30">
+    <input levelingroll="0" width="3000" height="3000" leveltileurl="tiles/робо коридор Кровушка муравушка/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelbias="0.400" overlap="1">
+      <level predecode="0" width="3000" height="3000" preload="0"/>
+      <level predecode="0" width="1500" height="1500" preload="0"/>
+      <level predecode="0" width="750" height="750" preload="0"/>
+      <level predecode="1" width="375" height="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata longitude="" comment="" tags="Pano2VR5" copyright="" description="" title="" datetime="2019:05:11 19:59:04" info="" author="" latitude="" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" enabled="1" textcolor="0x000000" wordwrap="1" border="1" width="180" backgroundalpha="1" height="20" backgroundcolor="0xffffff" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot id="Poly01" description="" target="-171.699/0.341273/31.53" title="" url="{node29}">
+        <vertex pan="-170.88" tilt="7.28"/>
+        <vertex pan="-170.42" tilt="-6.08"/>
+        <vertex pan="-174.04" tilt="-5.1"/>
+        <vertex pan="-173.83" tilt="6.45"/>
+      </polyhotspot>
+      <polyhotspot id="Poly02" description="" target="75.13/0.88/85.1" title="" url="{node1}">
+        <vertex pan="169.75" tilt="0.26"/>
+        <vertex pan="169.8" tilt="-0.1"/>
+        <vertex pan="169.51" tilt="-0.16"/>
+        <vertex pan="169.52" tilt="0.23"/>
+      </polyhotspot>
+      <polyhotspot id="Poly03" description="" target="141.594/-5.60913/70" title="" url="{node32}">
+        <vertex pan="147.31" tilt="11.23"/>
+        <vertex pan="136.22" tilt="16.31"/>
+        <vertex pan="135.71" tilt="-29.62"/>
+        <vertex pan="147.06" tilt="-20.12"/>
+      </polyhotspot>
+      <polyhotspot id="Poly04" description="" target="-50.8401/-6.78751/120" title="" url="{node31}">
+        <vertex pan="-39.92" tilt="13.93"/>
+        <vertex pan="-58.53" tilt="23.32"/>
+        <vertex pan="-58.53" tilt="-41.6"/>
+        <vertex pan="-40.12" tilt="-27.3"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" blendtime="0.1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" softedge="0"/>
+    <control dblclickfullscreen="0" sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" hideabout="0" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node31">
+    <input levelingroll="0" width="3000" height="3000" leveltileurl="tiles/робо коридор мир собакена/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelbias="0.400" overlap="1">
+      <level predecode="0" width="3000" height="3000" preload="0"/>
+      <level predecode="0" width="1500" height="1500" preload="0"/>
+      <level predecode="0" width="750" height="750" preload="0"/>
+      <level predecode="1" width="375" height="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata longitude="" comment="" tags="Pano2VR5" copyright="" description="" title="" datetime="2019:05:11 19:57:09" info="" author="" latitude="" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" enabled="1" textcolor="0x000000" wordwrap="1" border="1" width="180" backgroundalpha="1" height="20" backgroundcolor="0xffffff" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot id="Poly01" description="" target="75.13/0.88/85.1" title="" url="{node1}">
+        <vertex pan="169.71" tilt="0.25"/>
+        <vertex pan="169.76" tilt="-0.04"/>
+        <vertex pan="169.53" tilt="-0.05"/>
+        <vertex pan="169.54" tilt="0.23"/>
+      </polyhotspot>
+      <polyhotspot id="Poly02" description="" target="-48.7783/-7.04497/120" title="" url="{node29}">
+        <vertex pan="-40.05" tilt="14.26"/>
+        <vertex pan="-57.89" tilt="22.49"/>
+        <vertex pan="-57.88" tilt="-41.65"/>
+        <vertex pan="-39.21" tilt="-27.11"/>
+      </polyhotspot>
+      <polyhotspot id="Poly03" description="" target="141.608/-1.51346/70" title="" url="{node32}">
+        <vertex pan="136.69" tilt="16.65"/>
+        <vertex pan="146.85" tilt="10.89"/>
+        <vertex pan="146.67" tilt="-20.27"/>
+        <vertex pan="136.28" tilt="-29.64"/>
+      </polyhotspot>
+      <polyhotspot id="Poly04" description="" target="-171.662/-0.574713/70" title="" url="{node30}">
+        <vertex pan="-171.7" tilt="7.07"/>
+        <vertex pan="-170.81" tilt="-6.93"/>
+        <vertex pan="-174.57" tilt="-6.24"/>
+        <vertex pan="-174.38" tilt="6.96"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" blendtime="0.1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" softedge="0"/>
+    <control dblclickfullscreen="0" sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" hideabout="0" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node32">
+    <input levelingroll="0" width="3000" height="3000" leveltileurl="tiles/робо коридор психоделика/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelbias="0.400" overlap="1">
+      <level predecode="0" width="3000" height="3000" preload="0"/>
+      <level predecode="0" width="1500" height="1500" preload="0"/>
+      <level predecode="0" width="750" height="750" preload="0"/>
+      <level predecode="1" width="375" height="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata longitude="" comment="" tags="панорамы" copyright="" description="" title="" datetime="2019:05:12 00:17:17" info="" author="" latitude="" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" enabled="1" textcolor="0x000000" wordwrap="1" border="1" width="180" backgroundalpha="1" height="20" backgroundcolor="0xffffff" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot id="Poly01" description="" target="140.783/-3.07519/99.367" title="" url="{node29}">
+        <vertex pan="147.93" tilt="11.39"/>
+        <vertex pan="136.55" tilt="15.73"/>
+        <vertex pan="136.01" tilt="-28.29"/>
+        <vertex pan="148.44" tilt="-19.15"/>
+      </polyhotspot>
+      <polyhotspot id="Poly02" description="" target="-49.8551/-5.37776/70" title="" url="{node29}">
+        <vertex pan="-39.64" tilt="14.26"/>
+        <vertex pan="-58.3" tilt="22.86"/>
+        <vertex pan="-58.59" tilt="-41.2"/>
+        <vertex pan="-40.14" tilt="-27.12"/>
+      </polyhotspot>
+      <polyhotspot id="Poly03" description="" target="-173.391/0.44772/70" title="" url="{node30}">
+        <vertex pan="-170.66" tilt="7.32"/>
+        <vertex pan="-170.45" tilt="-6.55"/>
+        <vertex pan="-174.46" tilt="-5.86"/>
+        <vertex pan="-173.75" tilt="7.33"/>
+        <vertex pan="-172.15" tilt="7.63"/>
+      </polyhotspot>
+      <polyhotspot id="Poly04" description="" target="" title="" url="{node1}">
+        <vertex pan="169.75" tilt="0.25"/>
+        <vertex pan="169.78" tilt="-0.09"/>
+        <vertex pan="169.53" tilt="-0.13"/>
+        <vertex pan="169.57" tilt="0.28"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" blendtime="0.1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" softedge="0"/>
+    <control dblclickfullscreen="0" sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" hideabout="0" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node33">
+    <input levelingroll="0" width="6000" height="6000" leveltileurl="tiles/IMG_9727 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelbias="0.400" overlap="1">
+      <level predecode="0" width="6000" height="6000" preload="0"/>
+      <level predecode="0" width="3000" height="3000" preload="0"/>
+      <level predecode="0" width="1500" height="1500" preload="0"/>
+      <level predecode="0" width="750" height="750" preload="0"/>
+      <level predecode="1" width="375" height="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata longitude="" comment="" tags="Pano2VR5" copyright="" description="" title="" datetime="2019:04:29 19:21:58" info="" author="" latitude="" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" enabled="1" textcolor="0x000000" wordwrap="1" border="1" width="180" backgroundalpha="1" height="20" backgroundcolor="0xffffff" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot id="Poly01" description="" target="97.7785/-9.95664/85.1" title="" url="{node5}">
+        <vertex pan="-10.56" tilt="20.64"/>
+        <vertex pan="-49.83" tilt="18.7"/>
+        <vertex pan="-50.26" tilt="-32.43"/>
+        <vertex pan="-11.22" tilt="-35.05"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" blendtime="0.1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" softedge="0"/>
+    <control dblclickfullscreen="0" sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextfullscreen="1" hideabout="0" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" simulatemass="1"/>
+  </panorama>
+</tour>
