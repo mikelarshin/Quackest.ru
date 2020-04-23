@@ -11,3 +11,6 @@ body {
     text-shadow: crimson 5px 5px;
     -webkit-text-stroke: 4px black;
 }
+.link {
+    margin-left: 5%;
+}

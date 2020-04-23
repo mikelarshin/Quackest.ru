@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1da9c975-7ae9-45f7-ad16-c6138f158fa2" name="Default Changelist" comment="" />
+    <list default="true" id="1da9c975-7ae9-45f7-ad16-c6138f158fa2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,11 +23,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XwiobZ41NW5dAC2xNGV0OePFbO" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -32,17 +42,17 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Admin\WebstormProjects\first\html" />
-      <recent name="C:\Users\Admin\WebstormProjects\first\html\css" />
-      <recent name="C:\Users\Admin\WebstormProjects\first" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\WebstormProjects\Quackest.ru" />
       <recent name="C:\Users\Admin\WebstormProjects\first\first" />
       <recent name="C:\Users\Admin\WebstormProjects\first\html" />
       <recent name="C:\Users\Admin\WebstormProjects\first" />
       <recent name="C:\Users\Admin\WebstormProjects\first\css" />
-      <recent name="C:\Users\Admin\WebstormProjects\first\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\WebstormProjects\first\html" />
+      <recent name="C:\Users\Admin\WebstormProjects\first\html\css" />
+      <recent name="C:\Users\Admin\WebstormProjects\first" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -98,10 +108,28 @@
       <workItem from="1582486196039" duration="4386000" />
       <workItem from="1582529827675" duration="3690000" />
       <workItem from="1582534751961" duration="4531000" />
+      <workItem from="1583766637631" duration="65000" />
+      <workItem from="1584129201186" duration="2040000" />
+      <workItem from="1584297706265" duration="56000" />
+      <workItem from="1584302009666" duration="1189000" />
+      <workItem from="1584383831418" duration="617000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
