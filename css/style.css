@@ -1,16 +1,16 @@
 body {
     background: #ff5b19;
+    margin: 0;
 }
 
 .text {
-    text-align: center;
+    margin: auto;
     font-size: 150px;
     color: white;
-    margin-top: 15%;
-    font-family: Lobster;
+    font-family: Lobster, serif;
     text-shadow: crimson 5px 5px;
     -webkit-text-stroke: 4px black;
-}
-.link {
-    margin-left: 5%;
+    padding: 15%;
+    text-align: center;
+    height: 100%;
 }

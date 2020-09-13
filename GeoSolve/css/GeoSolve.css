@@ -1,0 +1,21 @@
+body {
+    margin-top: 100px;
+    background: white;
+}
+
+.text {
+    text-align: center;
+    font-size: 100px;
+    font-family: Helvetica, serif;
+    font-weight: lighter;
+    margin: auto;
+}
+
+.mark {
+    text-align: center;
+    font-size: 150px;
+    font-family: Helvetica, serif;
+    font-weight: bold;
+    color: #009688;
+    margin: auto;
+}
