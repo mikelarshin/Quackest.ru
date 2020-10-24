@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1da9c975-7ae9-45f7-ad16-c6138f158fa2" name="Default Changelist" comment="" />
+    <list default="true" id="1da9c975-7ae9-45f7-ad16-c6138f158fa2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/www/awards/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/resume/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +16,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -25,7 +29,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/www/awards" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -36,18 +40,19 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Admin\WebstormProjects\Quackest.ru" />
-      <recent name="C:\Users\Admin\WebstormProjects\first\html" />
-      <recent name="C:\Users\Admin\WebstormProjects\first\html\css" />
-      <recent name="C:\Users\Admin\WebstormProjects\first" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\WebstormProjects\Quackest.ru\www" />
       <recent name="C:\Users\Admin\WebstormProjects\Quackest.ru\css" />
       <recent name="C:\Users\Admin\WebstormProjects\Quackest.ru" />
       <recent name="C:\Users\Admin\WebstormProjects\Quackest.ru\Quantorium" />
       <recent name="C:\Users\Admin\WebstormProjects\first\first" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\WebstormProjects\Quackest.ru\www\awards" />
+      <recent name="C:\Users\Admin\WebstormProjects\Quackest.ru" />
       <recent name="C:\Users\Admin\WebstormProjects\first\html" />
+      <recent name="C:\Users\Admin\WebstormProjects\first\html\css" />
+      <recent name="C:\Users\Admin\WebstormProjects\first" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -108,6 +113,16 @@
       <workItem from="1584297706265" duration="56000" />
       <workItem from="1584302009666" duration="1189000" />
       <workItem from="1584383831418" duration="617000" />
+      <workItem from="1600011364089" duration="686000" />
+      <workItem from="1600510892391" duration="4000" />
+      <workItem from="1600634017612" duration="1021000" />
+      <workItem from="1600889302211" duration="1293000" />
+      <workItem from="1601473467036" duration="807000" />
+      <workItem from="1601572850776" duration="363000" />
+      <workItem from="1602255266700" duration="208000" />
+      <workItem from="1603385881506" duration="2000" />
+      <workItem from="1603465520184" duration="41000" />
+      <workItem from="1603544519568" duration="804000" />
     </task>
     <servers />
   </component>
