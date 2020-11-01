@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1da9c975-7ae9-45f7-ad16-c6138f158fa2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/www/awards/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/resume/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/kek/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/kek/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/title_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/kek/img/title_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,19 +42,19 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Admin\WebstormProjects\Quackest.ru\www" />
-      <recent name="C:\Users\Admin\WebstormProjects\Quackest.ru\css" />
-      <recent name="C:\Users\Admin\WebstormProjects\Quackest.ru" />
-      <recent name="C:\Users\Admin\WebstormProjects\Quackest.ru\Quantorium" />
-      <recent name="C:\Users\Admin\WebstormProjects\first\first" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\WebstormProjects\Quackest.ru\www\awards" />
       <recent name="C:\Users\Admin\WebstormProjects\Quackest.ru" />
       <recent name="C:\Users\Admin\WebstormProjects\first\html" />
       <recent name="C:\Users\Admin\WebstormProjects\first\html\css" />
       <recent name="C:\Users\Admin\WebstormProjects\first" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\WebstormProjects\Quackest.ru\www\kek" />
+      <recent name="C:\Users\Admin\WebstormProjects\Quackest.ru\www" />
+      <recent name="C:\Users\Admin\WebstormProjects\Quackest.ru\css" />
+      <recent name="C:\Users\Admin\WebstormProjects\Quackest.ru" />
+      <recent name="C:\Users\Admin\WebstormProjects\Quackest.ru\Quantorium" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -122,7 +124,9 @@
       <workItem from="1602255266700" duration="208000" />
       <workItem from="1603385881506" duration="2000" />
       <workItem from="1603465520184" duration="41000" />
-      <workItem from="1603544519568" duration="804000" />
+      <workItem from="1603544519568" duration="896000" />
+      <workItem from="1604134779086" duration="3000" />
+      <workItem from="1604183310472" duration="639000" />
     </task>
     <servers />
   </component>
